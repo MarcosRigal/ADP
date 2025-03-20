@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocationTrack</string>
+    <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
+    <string name="app_id">devicesync-bucst</string>
+    <string name="test_email">useradpdact@outlook.es</string>
+    <string name="test_password">PanCakes</string>
+    <string name="channel_name">Main</string>
+    <string name="channel_description">Main tracking persistent notification</string>
+    <string name="enable">Enable</string>
+</resources>
